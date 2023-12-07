@@ -1,0 +1,99 @@
+d:\documents\visual studio 2015\Projects\1122\1122\bin\Debug\1122.exe.config
+d:\documents\visual studio 2015\Projects\1122\1122\bin\Debug\1122.exe
+d:\documents\visual studio 2015\Projects\1122\1122\obj\Debug\1122.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\1122\1122\obj\Debug\_1122.Form1.resources
+d:\documents\visual studio 2015\Projects\1122\1122\obj\Debug\_1122.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\1122\1122\obj\Debug\1122.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\1122\1122\obj\Debug\1122.exe
+d:\documents\visual studio 2015\Projects\1122\1122\obj\Debug\1122.pdb
+D:\Documents\Visual Studio 2015\Projects\1122\1122\bin\Debug\1122.pdb
+D:\Documents\Visual Studio 2015\Projects\1122 v2\1122\bin\Debug\1122.exe.config
+D:\Documents\Visual Studio 2015\Projects\1122 v2\1122\obj\Debug\1122.exe
+D:\Documents\Visual Studio 2015\Projects\1122 v2\1122\obj\Debug\1122.pdb
+D:\Documents\Visual Studio 2015\Projects\1122 v2\1122\bin\Debug\1122.exe
+D:\Documents\Visual Studio 2015\Projects\1122 v2\1122\bin\Debug\1122.pdb
+D:\Documents\Visual Studio 2015\Projects\1122 v2\1122\obj\Debug\1122.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\1122 v2\1122\obj\Debug\_1122.Form1.resources
+D:\Documents\Visual Studio 2015\Projects\1122 v2\1122\obj\Debug\_1122.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\1122 v2\1122\obj\Debug\1122.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\1122 v3 right words\1122\bin\Debug\1122.exe.config
+D:\Documents\Visual Studio 2015\Projects\1122 v3 right words\1122\obj\Debug\1122.exe
+D:\Documents\Visual Studio 2015\Projects\1122 v3 right words\1122\obj\Debug\1122.pdb
+D:\Documents\Visual Studio 2015\Projects\1122 v3 right words\1122\obj\Debug\1122.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\1122 v3 right words\1122\obj\Debug\_1122.Form1.resources
+D:\Documents\Visual Studio 2015\Projects\1122 v3 right words\1122\obj\Debug\_1122.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\1122 v3 right words\1122\obj\Debug\1122.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\1122 v3 right words\1122\bin\Debug\1122.exe
+D:\Documents\Visual Studio 2015\Projects\1122 v3 right words\1122\bin\Debug\1122.pdb
+D:\Documents\Visual Studio 2015\Projects\1122 v4\1122\bin\Debug\1122.exe.config
+D:\Documents\Visual Studio 2015\Projects\1122 v4\1122\obj\Debug\1122.exe
+D:\Documents\Visual Studio 2015\Projects\1122 v4\1122\obj\Debug\1122.pdb
+D:\Documents\Visual Studio 2015\Projects\1122 v4\1122\obj\Debug\1122.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\1122 v4\1122\obj\Debug\_1122.Form1.resources
+D:\Documents\Visual Studio 2015\Projects\1122 v4\1122\obj\Debug\_1122.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\1122 v4\1122\obj\Debug\1122.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\1122 v4\1122\bin\Debug\1122.exe
+D:\Documents\Visual Studio 2015\Projects\1122 v4\1122\bin\Debug\1122.pdb
+D:\Documents\Visual Studio 2015\Projects\1122 v5 color buttons\1122\bin\Debug\1122.exe.config
+D:\Documents\Visual Studio 2015\Projects\1122 v5 color buttons\1122\obj\Debug\1122.exe
+D:\Documents\Visual Studio 2015\Projects\1122 v5 color buttons\1122\obj\Debug\1122.pdb
+D:\Documents\Visual Studio 2015\Projects\1122 v5 color buttons\1122\obj\Debug\1122.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\1122 v5 color buttons\1122\obj\Debug\_1122.Form1.resources
+D:\Documents\Visual Studio 2015\Projects\1122 v5 color buttons\1122\obj\Debug\_1122.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\1122 v5 color buttons\1122\obj\Debug\1122.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\1122 v5 color buttons\1122\bin\Debug\1122.exe
+D:\Documents\Visual Studio 2015\Projects\1122 v5 color buttons\1122\bin\Debug\1122.pdb
+D:\Documents\Visual Studio 2015\Projects\1122 v6 no changes in past words\1122\bin\Debug\1122.exe.config
+D:\Documents\Visual Studio 2015\Projects\1122 v6 no changes in past words\1122\obj\Debug\1122.exe
+D:\Documents\Visual Studio 2015\Projects\1122 v6 no changes in past words\1122\obj\Debug\1122.pdb
+D:\Documents\Visual Studio 2015\Projects\1122 v6 no changes in past words\1122\bin\Debug\1122.exe
+D:\Documents\Visual Studio 2015\Projects\1122 v6 no changes in past words\1122\bin\Debug\1122.pdb
+D:\Documents\Visual Studio 2015\Projects\1122 v6 no changes in past words\1122\obj\Debug\1122.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\1122 v6 no changes in past words\1122\obj\Debug\_1122.Form1.resources
+D:\Documents\Visual Studio 2015\Projects\1122 v6 no changes in past words\1122\obj\Debug\_1122.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\1122 v6 no changes in past words\1122\obj\Debug\1122.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\1122 v6 icon\1122\bin\Debug\Wordle.exe.config
+D:\Documents\Visual Studio 2015\Projects\1122 v6 icon\1122\bin\Debug\Wordle.exe
+D:\Documents\Visual Studio 2015\Projects\1122 v6 icon\1122\bin\Debug\Wordle.pdb
+D:\Documents\Visual Studio 2015\Projects\1122 v6 icon\1122\obj\Debug\_1122.Form1.resources
+D:\Documents\Visual Studio 2015\Projects\1122 v6 icon\1122\obj\Debug\_1122.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\1122 v6 icon\1122\obj\Debug\1122.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\1122 v6 icon\1122\obj\Debug\Wordle.exe
+D:\Documents\Visual Studio 2015\Projects\1122 v6 icon\1122\obj\Debug\Wordle.pdb
+D:\Documents\Visual Studio 2015\Projects\1122 v6 icon\1122\obj\Debug\1122.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\1122 v7 no changes in past words\1122\bin\Debug\Wordle.exe.config
+D:\Documents\Visual Studio 2015\Projects\1122 v7 no changes in past words\1122\obj\Debug\Wordle.exe
+D:\Documents\Visual Studio 2015\Projects\1122 v7 no changes in past words\1122\obj\Debug\Wordle.pdb
+D:\Documents\Visual Studio 2015\Projects\1122 v7 no changes in past words\1122\obj\Debug\1122.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\1122 v7 no changes in past words\1122\obj\Debug\_1122.Form1.resources
+D:\Documents\Visual Studio 2015\Projects\1122 v7 no changes in past words\1122\obj\Debug\_1122.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\1122 v7 no changes in past words\1122\obj\Debug\1122.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\1122 v7 no changes in past words\1122\bin\Debug\Wordle.exe
+D:\Documents\Visual Studio 2015\Projects\1122 v7 no changes in past words\1122\bin\Debug\Wordle.pdb
+D:\Documents\Visual Studio 2015\Projects\1122 v7 no changes in past words v2\1122\bin\Debug\Wordle.exe.config
+D:\Documents\Visual Studio 2015\Projects\1122 v7 no changes in past words v2\1122\obj\Debug\Wordle.exe
+D:\Documents\Visual Studio 2015\Projects\1122 v7 no changes in past words v2\1122\obj\Debug\Wordle.pdb
+D:\Documents\Visual Studio 2015\Projects\1122 v7 no changes in past words v2\1122\bin\Debug\Wordle.exe
+D:\Documents\Visual Studio 2015\Projects\1122 v7 no changes in past words v2\1122\bin\Debug\Wordle.pdb
+D:\Documents\Visual Studio 2015\Projects\1122 v7 no changes in past words v2\1122\obj\Debug\1122.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\1122 v7 no changes in past words v2\1122\obj\Debug\_1122.Form1.resources
+D:\Documents\Visual Studio 2015\Projects\1122 v7 no changes in past words v2\1122\obj\Debug\_1122.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\1122 v7 no changes in past words v2\1122\obj\Debug\1122.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\1122 v8 no changes in past words (good version)\1122\bin\Debug\Wordle.exe.config
+D:\Documents\Visual Studio 2015\Projects\1122 v8 no changes in past words (good version)\1122\obj\Debug\Wordle.exe
+D:\Documents\Visual Studio 2015\Projects\1122 v8 no changes in past words (good version)\1122\obj\Debug\Wordle.pdb
+D:\Documents\Visual Studio 2015\Projects\1122 v8 no changes in past words (good version)\1122\bin\Debug\Wordle.exe
+D:\Documents\Visual Studio 2015\Projects\1122 v8 no changes in past words (good version)\1122\bin\Debug\Wordle.pdb
+D:\Documents\Visual Studio 2015\Projects\1122 v8 no changes in past words (good version)\1122\obj\Debug\1122.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\1122 v8 no changes in past words (good version)\1122\obj\Debug\_1122.Form1.resources
+D:\Documents\Visual Studio 2015\Projects\1122 v8 no changes in past words (good version)\1122\obj\Debug\_1122.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\1122 v8 no changes in past words (good version)\1122\obj\Debug\1122.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\Wordle v9 no hardcoding\1122\bin\Debug\Wordle.exe.config
+D:\Documents\Visual Studio 2015\Projects\Wordle v9 no hardcoding\1122\obj\Debug\Wordle.exe
+D:\Documents\Visual Studio 2015\Projects\Wordle v9 no hardcoding\1122\obj\Debug\Wordle.pdb
+D:\Documents\Visual Studio 2015\Projects\Wordle v9 no hardcoding\1122\bin\Debug\Wordle.exe
+D:\Documents\Visual Studio 2015\Projects\Wordle v9 no hardcoding\1122\bin\Debug\Wordle.pdb
+D:\Documents\Visual Studio 2015\Projects\Wordle v9 no hardcoding\1122\obj\Debug\1122.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Wordle v9 no hardcoding\1122\obj\Debug\_1122.Form1.resources
+D:\Documents\Visual Studio 2015\Projects\Wordle v9 no hardcoding\1122\obj\Debug\_1122.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Wordle v9 no hardcoding\1122\obj\Debug\1122.csproj.GenerateResource.Cache
